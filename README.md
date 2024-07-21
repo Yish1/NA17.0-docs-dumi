@@ -1,2 +1,33 @@
-# NA17.0-docs-dumi
-NA17.0 Docs website,theme by dumi
+# myapp
+
+## Getting Started
+
+Install dependencies,
+
+```bash
+$ npm i
+```
+
+Start the dev server,
+
+```bash
+$ npm start
+```
+
+Build documentation,
+
+```bash
+$ npm run docs:build
+```
+
+Run test,
+
+```bash
+$ npm test
+```
+
+Build library via `father`,
+
+```bash
+$ npm run build
+```
